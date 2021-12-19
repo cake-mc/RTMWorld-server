@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "3c63e5e5-2e4b-3fdc-aa6b-87ae4ecba272",
+    "name": "HXD3D0181",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "112c5237-95ea-4cf9-b563-c1477a1fa65f",
+    "name": "Big_Cake",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1a8d1926-9a34-3089-94fe-3e235ee08182",
+    "name": "FansJDuan",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "69e535e9-8159-409e-93c8-d649d7355279",
+    "name": "XieXiLin",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "09c9e789-7736-31d9-b5c0-b6028255f8fc",
+    "name": "xian_ting",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
